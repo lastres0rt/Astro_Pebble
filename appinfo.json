@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Jigsaw Forte",
+    "longName": "AstroWolf Fur Pebble",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/astrowolf-watch-icon.png",
+                "menuIcon": true,
+                "name": "ASTRO_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/astrowolf-watch.png",
+                "name": "ASTRO",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "AstroWolf",
+    "uuid": "525532c0-9d26-4655-9248-6d2d56939a90",
+    "versionCode": 1,
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": true
+    }
+}
